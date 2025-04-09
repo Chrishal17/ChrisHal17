@@ -114,7 +114,7 @@
 <!-- Skillrack Stats -->
 <h2 align="center">🚀 Skillrack Statistics</h2>
 <p align="center">
-   <img src="https://skillrack.com/faces/ui/profile.xhtml?user=chrishalden11" alt="Skillrack Stats (Screenshot embed suggested)" width="70%">
+   <img src="https://www.skillrack.com/faces/resume.xhtml?id=448191&key=f96a0f1d5e0c6b4a24d24a44a7888d779d3577e6" alt="Skillrack Stats (Screenshot embed suggested)" width="70%">
 </p>
 
 ---
