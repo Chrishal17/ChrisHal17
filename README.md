@@ -112,10 +112,6 @@
 ---
 
 <!-- Skillrack Stats -->
-<h2 align="center">🚀 Skillrack Statistics</h2>
-<p align="center">
-   <iframe src="https://www.skillrack.com/faces/resume.xhtml?id=448191&key=f96a0f1d5e0c6b4a24d24a44a7888d779d3577e6" frameholder="0"></iframe>
-</p>
 
 ---
 
