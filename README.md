@@ -101,21 +101,7 @@ const chris = {
 - 📚 Updated documentation for API endpoints
 <!--END_SECTION:activity-->
 
-## 📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/Chrishal17/Project-A">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-A&theme=radical" />
-  </a>
-  <a href="https://github.com/Chrishal17/Project-B">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-B&theme=radical" />
-  </a>
-  <a href="https://github.com/Chrishal17/Project-C">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-C&theme=radical" />
-  </a>
-  <a href="https://github.com/Chrishal17/Project-D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-D&theme=radical" />
-  </a>
-</div>
+
 
 ## ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
