@@ -1,140 +1,138 @@
-<!-- Header Section with Improved Design -->
+<!-- Professional GitHub Profile README for Chris Halden -->
 <div align="center">
-   <h1 align="center">Hi 👋, I'm Chris Halden</h1>
-   <h3>Full-Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
-
-   <!-- Typing Animation -->
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+Explorer;Open+Source+Contributor;Tech+Innovation+Advocate" alt="Typing SVG" />
-
-   <!-- Social Links -->
-   <p>
-      <a href="https://instagram.com/itz_me_halden">
-         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Chris+Halden;Full-Stack+Developer;Tech+Innovator;Open+Source+Contributor" alt="Animated Typing" />
+   
+   <!-- Social Badges -->
+   <p align="center">
+      <a href="https://linkedin.com/in/chrishalden" target="_blank" rel="noopener noreferrer">
+         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
       </a>
-      <a href="https://linkedin.com/in/chrishalden">
-         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="https://codepen.io/Chris-Halden">
-         <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
+      <a href="https://github.com/Chrishal17" target="_blank" rel="noopener noreferrer">
+         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
       </a>
       <a href="mailto:chrishalden11@gmail.com">
-         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+         <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
       </a>
-      <a href="https://github.com/Chrishal17">
-         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <a href="https://leetcode.com/chrishalden11/" target="_blank" rel="noopener noreferrer">
+         <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+      </a>
+      <a href="https://codepen.io/Chris-Halden" target="_blank" rel="noopener noreferrer">
+         <img alt="CodePen" src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white"/>
       </a>
    </p>
-
-   <!-- GitHub Stats Summary -->
-   <p>
-      <img src="https://img.shields.io/github/followers/Chrishal17?label=Follow&style=flat-square" alt="GitHub followers"/>
-      <img src="https://img.shields.io/github/stars/Chrishal17?affiliations=OWNER&style=flat-square" alt="GitHub stars"/>
-      <img src="https://komarev.com/ghpvc/?username=Chrishal17&style=flat-square&color=brightgreen" alt="Profile views"/>
+   
+   <!-- GitHub Stats -->
+   <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=Chrishal17&label=Profile+Views&color=00D1B2&style=flat" alt="Profile Views" />
+      <img src="https://img.shields.io/github/followers/Chrishal17?label=Followers&style=flat&color=00D1B2" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/stars/Chrishal17?label=Stars&style=flat&color=00D1B2" alt="GitHub Stars" />
    </p>
 </div>
 
 ---
 
-<!-- About Me Section -->
-<div>
-   <h2>👨‍💻 About Me</h2>
-   <ul>
-      <li>🔭 Currently working on <strong>Full-Stack Web Development Projects</strong></li>
-      <li>🌱 Expanding knowledge in <strong>React.js and Modern Frameworks</strong></li>
-      <li>👯 Looking to collaborate on <strong>Open-source Projects and Hackathons</strong></li>
-      <li>📫 Reach me at: <a href="mailto:chrishalden11@gmail.com">chrishalden11@gmail.com</a></li>
-      <li>⚡ Fun fact: I love playing <strong>Cricket🏏</strong> and am a <strong>tech innovation advocate</strong></li>
-   </ul>
-</div>
+## 🚀 About Me
 
----
-
-<!-- Skills Section -->
+javascript
+const chris = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Python", "Java", "C"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "SASS", "Bootstrap"]
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Flask", "Django"]
+    },
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    devOps: ["Docker", "AWS", "CI/CD"],
+    misc: ["Firebase", "GraphQL", "REST APIs"]
+  },
+  architecture: ["Microservices", "MVC", "Serverless"],
+  currentFocus: "Building scalable full-stack applications",
+  funFact: "Can solve a Rubik's cube while debugging code"
+};
+🛠️ Tech Stack
+Languages & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,react,nextjs,nodejs,express,django,flask,tailwind,sass,bootstrap,materialui" alt="Tech Stack" /> </p>
+Databases & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,azure,gcp,docker,kubernetes" alt="Databases & Cloud" /> </p>
+Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,postman,figma,netlify,vercel" alt="Tools" /> </p>
+📈 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chrishal17&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chrishal17&theme=radical&hide_border=true" /> </p><p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrishal17&layout=compact&theme=radical&hide_border=true&langs_count=8" /> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chrishal17&theme=radical&utcOffset=8" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Chrishal17&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
+🏆 Coding Profiles
 <div align="center">
-   <h2>🛠 Technical Skills</h2>
+LeetCode
+https://leetcard.jacoblin.cool/chrishalden11?theme=nord&font=Baloo%25202&ext=heatmap&width=800
 
-   <h3>Languages</h3>
-   <p>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   </p>
+CodeChef
+https://cp-logo.vercel.app/codechef/chrishalden?logo=true
 
-   <h3>Frontend</h3>
-   <p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      
-   </p>
-
-   <h3>Backend & DB</h3>
-   <p>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-   </p>
-
-   <h3>Tools</h3>
-   <p>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-   </p>
-
-   <p>
-      <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=c,java,js,python,html,css&theme=dark&perline=6" alt="Skills"/>
-      </a>
-   </p>
 </div>
+🔥 Recent Activity
+<!--START_SECTION:activity-->
+🎉 Merged PR [#1] in [Chrishal17/Project-X]
 
----
+🚀 Published release v1.0.0 of [Awesome-Project]
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Statistics
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Chrishal17&theme=radical&hide_border=false&count_private=true" width="48%"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrishal17&layout=compact&theme=radical&hide_border=false" width="48%"/>
-</p>
+💪 Opened PR [#42] in [Open-Source-Org/Repo]
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrishal17&theme=radical&hide_border=false" width="70%" />
-</p>
+🛠️ Fixed bug in authentication middleware
 
----
+📚 Updated documentation for API endpoints
 
-<!-- LeetCode Stats -->
-<h2 align="center">⚡ LeetCode Statistics</h2>
-<p align="center">
-   <img src="https://leetcard.jacoblin.cool/chrishalden11?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="70%">
-</p>
+<!--END_SECTION:activity-->
+📌 Pinned Repositories
+<div align="center"> <a href="https://github.com/Chrishal17/Project-A"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-A&theme=radical" /> </a> <a href="https://github.com/Chrishal17/Project-B"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-B&theme=radical" /> </a> <a href="https://github.com/Chrishal17/Project-C"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-C&theme=radical" /> </a> <a href="https://github.com/Chrishal17/Project-D"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chrishal17&repo=Project-D&theme=radical" /> </a></div>
+✍️ Blog Posts
+<!-- BLOG-POST-LIST:START -->
+Optimizing React Performance in 2023
 
----
+Building Scalable Microservices with Node.js
 
-<!-- Skillrack Stats -->
+The Complete Guide to JWT Authentication
 
----
+<!-- BLOG-POST-LIST:END -->
+🎯 Current Projects
+Project X: Building a scalable e-commerce platform with microservices architecture
 
-<!-- Dev Quote -->
-### ✍️ Random Dev Quote
-<p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+Project Y: Developing an AI-powered recommendation engine using Python
 
----
+Project Z: Creating an open-source UI component library for React
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Chrishal17&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+🤝 Collaboration Opportunities
+I'm actively looking to collaborate on:
 
----
+Open source projects in the JavaScript/TypeScript ecosystem
 
-<!-- Footer -->
+Innovative web applications with modern tech stacks
+
+Developer tools and utilities
+
+Educational content creation
+
+💡 Development Philosophy
+"Write code that is first understandable, then correct, then fast - in that order."
+
+Modified from Mike Acton
+
+I believe in:
+
+Clean, maintainable code with proper documentation
+
+Test-driven development (TDD) where appropriate
+
+Continuous learning and knowledge sharing
+
+Building solutions that solve real problems
+
 <div align="center">
-   <strong>💻 Crafted with ❤️ by Chris Halden</strong><br>
-   <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Chrishal17&icon=0&color=0" alt="visit count"/>
-   </a>
-</div>
+https://github.com/Chrishal17/Chrishal17/blob/output/github-contribution-grid-snake.svg
+
+<p>⚡ <em>"First, solve the problem. Then, write the code."</em> - John Johnson</p>
+<sub>Built with ❤️ and <a href="https://github.com/Chrishal17">GitHub</a></sub>
+
+</div> 
