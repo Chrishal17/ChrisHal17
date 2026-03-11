@@ -60,17 +60,17 @@ const chris = {
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,react,nextjs,nodejs,express,django,flask,tailwind,sass,bootstrap,materialui" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nextjs,nodejs,express,flask,tailwind,sass,bootstrap,materialui" alt="Tech Stack" />
 </p>
 
 ### Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,azure,gcp,docker,kubernetes" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp" alt="Databases & Cloud" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,postman,figma,netlify,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,netlify,vercel" alt="Tools" />
 </p>
 
 ## 📈 GitHub Analytics
