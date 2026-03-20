@@ -92,28 +92,7 @@ const chris = {
   <img src="https://cp-logo.vercel.app/codechef/chrishalden?logo=true" alt="CodeChef Logo"/>
 </div>
 
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-- 🎉 Merged PR [#1] in [Chrishal17/Project-X]
-- 🚀 Published release v1.0.0 of [Awesome-Project]
-- 💪 Opened PR [#42] in [Open-Source-Org/Repo]
-- 🛠️ Fixed bug in authentication middleware
-- 📚 Updated documentation for API endpoints
-<!--END_SECTION:activity-->
 
-
-
-## ✍️ Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Optimizing React Performance in 2023
-- Building Scalable Microservices with Node.js
-- The Complete Guide to JWT Authentication
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Current Projects
-- **Project X**: Building a scalable e-commerce platform with microservices architecture
-- **Project Y**: Developing an AI-powered recommendation engine using Python
-- **Project Z**: Creating an open-source UI component library for React
 
 ## 🤝 Collaboration Opportunities
 I'm actively looking to collaborate on:
